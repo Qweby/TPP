@@ -1,0 +1,31 @@
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe.config
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.pdb
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.AssemblyReference.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\App.g.cs
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.lref
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.baml
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.g.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.Properties.Resources.resources
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.GenerateResource.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.CoreCompileInputs.cache
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.exe
+C:\Users\stepk\Desktop\УНИК\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.pdb
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe.config
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.exe
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\bin\Debug\ТПП_ЛР7.pdb
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.AssemblyReference.cache
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.exe.config
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.g.cs
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\App.g.cs
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.cache
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7_MarkupCompile.lref
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\MainWindow.baml
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.g.resources
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.Properties.Resources.resources
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.GenerateResource.cache
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.csproj.CoreCompileInputs.cache
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.exe
+C:\Users\Aimee\Desktop\1 курс 2 семестр\1 курс 2 семестр\ТПП\ТПП_ЛР7\ТПП_ЛР7\obj\Debug\ТПП_ЛР7.pdb
